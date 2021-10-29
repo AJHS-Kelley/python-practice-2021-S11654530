@@ -1,0 +1,8 @@
+# Variables practice, Ronald Durham, 10/29/21 2:22 pm, version 0.0
+
+# Three common types of data 
+
+Lives_remaining = 13 # INTERGERS , any +/- whole number and 0.
+Forty_time = 4.21 # FLOATING POINT , any +/- number with a deciml.
+death_cy = "i cant stand you"
+# line 7 is a STRING -- collection of letters/numbers/other chars 
